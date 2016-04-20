@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: SuperBNC
+email: support@superbnc.com
+description: > # this means to ignore newlines until "baseurl:"
+  SuperBNC is a free IRC (Internet Relay Chat) bouncer provider. We are
+  FOSS supporters and we use FOSS where possible. We also host our own
+  projects on GitHub where anyone can use and/or contribute to them.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://superbnc.com" # the base hostname & protocol for your site
+twitter_username: SuperBNC_
+github_username:  SuperBNC
+
+# Build settings
+markdown: kramdown
