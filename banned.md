@@ -9,4 +9,4 @@ permalink: /banned/
 
 **Banned Networks**:
 
-* No currently banned networks
+* Snoonet -- Network does not allow free BNC providers other than [their own](https://snoonet.org/bnc).
