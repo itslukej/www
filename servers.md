@@ -3,7 +3,7 @@ layout: page
 title: Servers
 permalink: /servers/
 ---
-* nl.superbnc.com
+* aegir.superbnc.com
   * Owner: IndigoTiger
   * Host: RamNode
   * Non-SSL Ports: 6667
