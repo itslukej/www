@@ -5,7 +5,7 @@ permalink: /banned/
 ---
 **Suspended Networks**:
 
-* No currently suspended networks
+* UniversoChat -- BNC server appears to be K/G-Lined (Conexion Prohibida)
 
 **Banned Networks**:
 
