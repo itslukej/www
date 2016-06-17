@@ -5,7 +5,7 @@ permalink: /banned/
 ---
 **Suspended Networks**:
 
-* UniversoChat -- Network has banned our Aegir server, again.
+* There are currently no suspended networks
 
 **Banned Networks**:
 
