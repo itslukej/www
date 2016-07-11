@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changing Reverse DNS"
-date: 2016-04-23 12:43:20 +0000
+date: 2016-07-11 12:57:09 +0100
 categories: superbnc update
 ---
 From today, our reverse DNS has changed. New PTR records will be \<number\>.\<address-family\>.\<server\>.superbnc.com (e.g 1.ipv4.aegir.superbnc.com).
