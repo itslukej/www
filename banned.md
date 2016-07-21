@@ -10,3 +10,5 @@ permalink: /banned/
 **Banned Networks**:
 
 * Snoonet -- Network does not allow free BNC providers other than [their own](https://snoonet.org/bnc).
+
+* SimosNap -- Network does not allow free BNC providers.
