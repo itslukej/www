@@ -5,7 +5,7 @@ permalink: /banned/
 ---
 **Suspended Networks**:
 
-* There are currently no suspended networks
+* UnderNet -- We are currently hitting connection limits for this network.
 
 **Banned Networks**:
 
